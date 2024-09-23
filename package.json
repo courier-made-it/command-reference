@@ -1,7 +1,7 @@
 {
-  "name": "robbi",
+  "name": "courite-prerelease-base-?",
   "version": "1.0.0",
-  "description": "Funky discord bot",
+  "description": "couriers personal bot test subject, MADE BY TECCI NOT ME xD",
   "main": "src/index.ts",
   "scripts": {
     "dev": "nodemon",
