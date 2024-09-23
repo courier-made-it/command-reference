@@ -1,7 +1,7 @@
 {
   "name": "courite-prerelease-base-?",
   "version": "1.0.0",
-  "description": "couriers personal bot test subject, MADE BY TECCI NOT ME xD",
+  "description": "couriers personal bot test subject, MADE BY @Teccii NOT ME xD",
   "main": "src/index.ts",
   "scripts": {
     "dev": "nodemon",
